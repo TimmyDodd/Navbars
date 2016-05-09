@@ -1,5 +1,4 @@
-
-
+// reveal navbar after scroll
 (function ($) {
   $(document).ready(function(){
     
